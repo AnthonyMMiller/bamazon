@@ -12,3 +12,10 @@ App will give prompts for making purchases, purchases will subtract inventory fr
 
 ## Video
 
+
+## Future features in development
+* Admin view with more control over stock quantities 
+* Manager view with more control insite   
+* Better UI 
+* Ability to build order of multiple products 
+* Ability to back stock itmes returned
