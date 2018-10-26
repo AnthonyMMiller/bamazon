@@ -8,7 +8,7 @@
   
  ## Instructions
  
-App will give prompts for making purchases, purchases will subtract inventory from mysql table. Process loops until user is finished making purchases.
+App will diplay current stock and give prompts for making purchases. Purchases will subtract inventory from mysql database. Process loops until user is finished making purchases. 
 
 ## Video
 https://youtu.be/miVnPt6AIqc
